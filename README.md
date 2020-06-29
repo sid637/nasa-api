@@ -1,7 +1,7 @@
 # nasa-api
 Nasa API with ajax
 
-The NASA API is - https://api.nasa.gov/api.html#MarsPhotos
+The NASA API is - https://api.nasa.gov/api
 
 
 In the documentation of the NASA API, 
